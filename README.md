@@ -21,8 +21,9 @@
   - checks for solvability and constraints enemy spawns
 
 ## Game Description:
-![Alt text](images/main_menu.PNG)
-![Alt text](images/game.PNG)
+![Alt text](images/mainmenugif.gif)
+![Alt text](images/ghostgif.gif)
+![Alt text](images/mummygif.gif)
 
 - This game is a 1st peson perspective 3D game to escape a maze. The goal of this game is to escape a randomly generated maze, avoiding attack from enemies. The game allows the player to use a flashlight to get rid of enemies, and also the player needs to find a battery for the flashlight. 
 
