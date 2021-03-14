@@ -21,8 +21,8 @@
 - checks for solvability and constraints enemy spawns
 
 ## Game Description:
-![Alt text](images/main_menu.png)
-![Alt text](images/game.png)
+![Alt text](images/main_menu.PNG)
+![Alt text](images/game.PNG)
 
 - This game is a 1st peson perspective 3D game to escape a maze. The goal of this game is to escape a randomly generated maze, avoiding attack from enemies. The game allows the player to use a flashlight to get rid of enemies, and also the player needs to find a battery for the flashlight. 
 
@@ -56,5 +56,5 @@
  * [pumkin, rock](https://assetstore.unity.com/packages/3d/environments/fantasy/halloween-cemetery-set-19125)
 
 - In order to build the game application, please make sure the setting as following image.
-![Alt text](images/build_setting.png)
-![Alt text](images/layer.png)
+![Alt text](images/build_setting.PNG)
+![Alt text](images/layer.PNG)
